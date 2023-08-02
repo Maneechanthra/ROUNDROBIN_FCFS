@@ -1,0 +1,362 @@
+FCFS Scheduling: 
+
+Process#1
+RunningTime : 0 - 38
+ResponseTime : 0
+
+Process#2
+RunningTime : 39 - 104
+ResponseTime : 39
+
+Process#3
+RunningTime : 105 - 204
+ResponseTime : 105
+
+Process#4
+RunningTime : 205 - 297
+ResponseTime : 205
+
+Process#5
+RunningTime : 298 - 316
+ResponseTime : 298
+
+Process#6
+RunningTime : 317 - 343
+ResponseTime : 317
+
+Process#7
+RunningTime : 344 - 356
+ResponseTime : 344
+
+Process#8
+RunningTime : 357 - 419
+ResponseTime : 357
+
+Process#9
+RunningTime : 420 - 488
+ResponseTime : 420
+
+Process#10
+RunningTime : 489 - 560
+ResponseTime : 489
+
+Process#11
+RunningTime : 561 - 575
+ResponseTime : 561
+
+Process#12
+RunningTime : 576 - 595
+ResponseTime : 576
+
+Process#13
+RunningTime : 596 - 614
+ResponseTime : 596
+
+Process#14
+RunningTime : 615 - 668
+ResponseTime : 615
+
+Process#15
+RunningTime : 669 - 745
+ResponseTime : 669
+
+Process#16
+RunningTime : 746 - 826
+ResponseTime : 746
+
+Process#17
+RunningTime : 827 - 861
+ResponseTime : 827
+
+Process#18
+RunningTime : 862 - 904
+ResponseTime : 862
+
+Process#19
+RunningTime : 905 - 934
+ResponseTime : 905
+
+Process#20
+RunningTime : 935 - 962
+ResponseTime : 935
+
+Process#21
+RunningTime : 963 - 1058
+ResponseTime : 963
+
+Process#22
+RunningTime : 1059 - 1132
+ResponseTime : 1059
+
+Process#23
+RunningTime : 1133 - 1149
+ResponseTime : 1133
+
+Process#24
+RunningTime : 1150 - 1235
+ResponseTime : 1150
+
+Process#25
+RunningTime : 1236 - 1268
+ResponseTime : 1236
+
+Process#26
+RunningTime : 1269 - 1335
+ResponseTime : 1269
+
+Process#27
+RunningTime : 1336 - 1353
+ResponseTime : 1336
+
+Process#28
+RunningTime : 1354 - 1418
+ResponseTime : 1354
+
+Process#29
+RunningTime : 1419 - 1484
+ResponseTime : 1419
+
+Process#30
+RunningTime : 1485 - 1505
+ResponseTime : 1485
+
+Process#31
+RunningTime : 1506 - 1549
+ResponseTime : 1506
+
+Process#32
+RunningTime : 1550 - 1574
+ResponseTime : 1550
+
+Process#33
+RunningTime : 1575 - 1667
+ResponseTime : 1575
+
+Process#34
+RunningTime : 1668 - 1709
+ResponseTime : 1668
+
+Process#35
+RunningTime : 1710 - 1806
+ResponseTime : 1710
+
+Process#36
+RunningTime : 1807 - 1864
+ResponseTime : 1807
+
+Process#37
+RunningTime : 1865 - 1914
+ResponseTime : 1865
+
+Process#38
+RunningTime : 1915 - 1921
+ResponseTime : 1915
+
+Process#39
+RunningTime : 1922 - 1996
+ResponseTime : 1922
+
+Process#40
+RunningTime : 1997 - 2023
+ResponseTime : 1997
+
+Process#41
+RunningTime : 2024 - 2077
+ResponseTime : 2024
+
+Process#42
+RunningTime : 2078 - 2151
+ResponseTime : 2078
+
+Process#43
+RunningTime : 2152 - 2251
+ResponseTime : 2152
+
+Process#44
+RunningTime : 2252 - 2293
+ResponseTime : 2252
+
+Process#45
+RunningTime : 2294 - 2366
+ResponseTime : 2294
+
+Process#46
+RunningTime : 2367 - 2439
+ResponseTime : 2367
+
+Process#47
+RunningTime : 2440 - 2478
+ResponseTime : 2440
+
+Process#48
+RunningTime : 2479 - 2518
+ResponseTime : 2479
+
+Process#49
+RunningTime : 2519 - 2563
+ResponseTime : 2519
+
+Process#50
+RunningTime : 2564 - 2609
+ResponseTime : 2564
+
+Process#51
+RunningTime : 2610 - 2668
+ResponseTime : 2610
+
+Process#52
+RunningTime : 2669 - 2685
+ResponseTime : 2669
+
+Process#53
+RunningTime : 2686 - 2699
+ResponseTime : 2686
+
+Process#54
+RunningTime : 2700 - 2739
+ResponseTime : 2700
+
+Process#55
+RunningTime : 2740 - 2798
+ResponseTime : 2740
+
+Process#56
+RunningTime : 2799 - 2878
+ResponseTime : 2799
+
+Process#57
+RunningTime : 2879 - 2914
+ResponseTime : 2879
+
+Process#58
+RunningTime : 2915 - 2946
+ResponseTime : 2915
+
+Process#59
+RunningTime : 2947 - 3006
+ResponseTime : 2947
+
+Process#60
+RunningTime : 3007 - 3039
+ResponseTime : 3007
+
+Process#61
+RunningTime : 3040 - 3097
+ResponseTime : 3040
+
+Process#62
+RunningTime : 3098 - 3185
+ResponseTime : 3098
+
+Process#63
+RunningTime : 3186 - 3194
+ResponseTime : 3186
+
+Process#64
+RunningTime : 3195 - 3258
+ResponseTime : 3195
+
+Process#65
+RunningTime : 3259 - 3283
+ResponseTime : 3259
+
+Process#66
+RunningTime : 3284 - 3289
+ResponseTime : 3284
+
+Process#67
+RunningTime : 3290 - 3373
+ResponseTime : 3290
+
+Process#68
+RunningTime : 3374 - 3405
+ResponseTime : 3374
+
+Process#69
+RunningTime : 3406 - 3410
+ResponseTime : 3406
+
+Process#70
+RunningTime : 3411 - 3487
+ResponseTime : 3411
+
+Process#71
+RunningTime : 3488 - 3554
+ResponseTime : 3488
+
+Process#72
+RunningTime : 3555 - 3575
+ResponseTime : 3555
+
+Process#73
+RunningTime : 3576 - 3600
+ResponseTime : 3576
+
+Process#74
+RunningTime : 3601 - 3687
+ResponseTime : 3601
+
+Process#75
+RunningTime : 3688 - 3740
+ResponseTime : 3688
+
+Process#76
+RunningTime : 3741 - 3783
+ResponseTime : 3741
+
+Process#77
+RunningTime : 3784 - 3794
+ResponseTime : 3784
+
+Process#78
+RunningTime : 3795 - 3862
+ResponseTime : 3795
+
+Process#79
+RunningTime : 3863 - 3876
+ResponseTime : 3863
+
+Process#80
+RunningTime : 3877 - 3913
+ResponseTime : 3877
+
+Process#81
+RunningTime : 3914 - 3964
+ResponseTime : 3914
+
+Process#82
+RunningTime : 3965 - 4031
+ResponseTime : 3965
+
+Process#83
+RunningTime : 4032 - 4063
+ResponseTime : 4032
+
+Process#84
+RunningTime : 4064 - 4096
+ResponseTime : 4064
+
+Process#85
+RunningTime : 4097 - 4164
+ResponseTime : 4097
+
+Process#86
+RunningTime : 4165 - 4198
+ResponseTime : 4165
+
+Process#87
+RunningTime : 4199 - 4265
+ResponseTime : 4199
+
+Process#88
+RunningTime : 4266 - 4314
+ResponseTime : 4266
+
+Process#89
+RunningTime : 4315 - 4340
+ResponseTime : 4315
+
+Process#90
+RunningTime : 4341 - 4430
+ResponseTime : 4341
+
